@@ -1,0 +1,70 @@
+
+body{
+    color: black;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.heading{
+    font-size: 1.7em;
+    /* text-align: left; */
+}
+#signbtn{
+    background-color: black;
+color: white;  
+}
+.form-group{
+    /* border: 2px solid blueviolet; */
+    width: 40%;
+
+}
+#main{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 0px 0px 1px grey;
+    font-weight: bold;
+}
+#mainlink{
+    color: black;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.logos{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: -450px;
+    margin-left: 810px;
+    width:40% ;
+    height: 200px;
+    /* border: 2px solid blueviolet; */
+
+}
+#logos-main{
+    width:670px ;
+    height: 370px;
+    padding: 50px;
+    margin-left: 390px;
+}
+#fb{
+background-color: lightblue;
+color: white;
+}
+#mypic{
+    width:600px;  ;
+    height: auto; 
+}
+#log:hover{
+    background-color: bisque;
+}
+#userinput{
+    height: 40px;
+    width:600px;  ;
+
+}
+#send{
+/* border: 2px solid blueviolet; */
+/* margin-left: 270px; */
+height: 40px;
+width: 70px;
+font-weight: bold;
+font-size: 1.2em;
+}
